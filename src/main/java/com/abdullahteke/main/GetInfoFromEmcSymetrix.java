@@ -10,9 +10,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-import com.abdullahteke.model.SymmetrixMetrics;
 import com.abdullahteke.service.SymmetrixService;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 
 import ch.qos.logback.classic.Logger;
