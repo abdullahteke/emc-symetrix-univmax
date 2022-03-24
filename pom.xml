@@ -2,6 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.abdullahteke</groupId>
 	<artifactId>emc-symmetrix</artifactId>
+	<name>emc-symmetrix</name>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<parent>
