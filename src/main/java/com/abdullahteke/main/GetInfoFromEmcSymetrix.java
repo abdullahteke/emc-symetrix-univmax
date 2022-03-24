@@ -18,7 +18,7 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import ch.qos.logback.classic.Logger;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.abdullah.teke")
+@ComponentScan(basePackages = "com.abdullahteke")
 public class GetInfoFromEmcSymetrix implements CommandLineRunner {
 	
     private static final Logger logger = (Logger) LoggerFactory.getLogger(GetInfoFromEmcSymetrix.class);
